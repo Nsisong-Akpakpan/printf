@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdarg.h>
 #include <stddef.h>
+#include <stdio.h>
 
 /**
  *  * printf_srev - function that prints a str in reverse
