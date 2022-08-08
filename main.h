@@ -11,6 +11,5 @@ int _putchar(char c);
 int _printf(const char *format, ...);
 int rev_string(char *s);
 int printf_srev(va_list args);
-int _putchar(char c);
 
 #endif
